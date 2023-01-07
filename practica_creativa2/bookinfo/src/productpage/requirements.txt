@@ -8,7 +8,7 @@ Flask-Bootstrap
 Flask-JSON
 future
 futures
-gevent
+gevent==1.4.0
 greenlet
 idna
 itsdangerous

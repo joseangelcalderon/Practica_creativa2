@@ -24,7 +24,7 @@ simplejson
 six
 threadloop
 thrift
-tornado
+tornado==4.5.3
 urllib3
 visitor
 Werkzeug
